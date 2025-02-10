@@ -1,4 +1,0 @@
-Here learning the specifities of TypeScript
-Maybe even some react apps
-This are my final "begginer" frontend projects
-So I need them to show that I have already grasped the basic concepts of the language (JS/TS)
